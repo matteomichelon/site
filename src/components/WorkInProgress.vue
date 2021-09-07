@@ -1,6 +1,6 @@
 <template>
   <div class="progress">
-    <h1>matteomichelon.com <br> <br>Work in progress</h1>
+    <h1>Work in progress</h1>
   </div>
 </template>
 
